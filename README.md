@@ -1,6 +1,8 @@
 # 🛡️ Website Security Guide
 
-![Website Security Banner](IMAGE_URL_HERE)
+![Website Security Banner](https://github.com/sihamkalach/WebsiteSecurityGuide/blob/cb4d21d5fd745fc13b2a29a98ae0d0a06cad12ee/Website%20Security%20(1).jpg)
+
+![Website Security Banner](https://github.com/sihamkalach/WebsiteSecurityGuide/blob/cb4d21d5fd745fc13b2a29a98ae0d0a06cad12ee/Website%20Security%20(2).jpg)
 
 A comprehensive guide on securing web applications, developed as part of a cybersecurity project.  
 This work explores best practices in securing modern websites, covering vulnerabilities, tools, deployment practices, and real-life examples.
